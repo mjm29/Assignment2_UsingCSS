@@ -46,7 +46,7 @@ h1, h2 {
 
 /*** INSERT YOUR WORK BELOW: ***/
 
-/*** Since the default indent is 4 spacces for the given files I decided to just use 4 space indent to be consistent***/
+/*** Since the default indent is 4 spaces for the given files I decided to just use 4 space indent to be consistent***/
 
 h1{
     font-size: 32px;
@@ -55,13 +55,12 @@ h2{
     font-size: 24px;
 }
 h3{
-    font: 18px;
+    font-size: 18px;
     font-weight: bold;
 }
 footer{
     font-size: 12px;
 }
-
 a{
     text-decoration: none;
 }
@@ -93,13 +92,11 @@ h2, p{
 header, footer{
     background-color: #c74365;
 }
-
 body{
     display: flex;
     flex-direction: column;
     gap: 30px;
 }
-
 header a{
     font-size: 18px;
 }
@@ -111,15 +108,12 @@ header img{
 header{
     line-height: 50px;
 }
-
 nav{
     margin-left: auto;
 }
-
 ul{
     gap: 15px;
 }
-
 footer{
     padding: 15px;
     text-align: center;
@@ -144,7 +138,6 @@ footer{
 .italics{
     font-style: italic;
 }
-
 article{
     background-color: lightgray;
     padding: 15px;
@@ -174,22 +167,18 @@ article{
 .wide-column{
     width: 420px;
 }
-
 .narrow-column{
     width: 180px;
 }
-
 img{
     width: 120px;
 }
-
 .labels{
     font-weight: bold;
     width: 70px;
     text-align: right;
     margin-right: 15px;
 }
-
 .light-background{
     background-color: lightgray;
     height: 140px;
@@ -223,15 +212,12 @@ label{
     font-weight: bold;
     text-align: center;
 }
-
 input{
     width: 100px;
 }
-
 form .flex{
     gap: 15px;
 }
-
 form button{
     height: 21px;
     width: 107.56px;
@@ -242,7 +228,6 @@ form button{
     border: 1px solid gray;
     border-radius: 4px;
 }
-
 button:hover{
     background-color: gray;
 }
